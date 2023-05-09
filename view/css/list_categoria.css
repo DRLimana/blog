@@ -1,0 +1,56 @@
+body {
+    background-color: #eeeeee;
+    font-family: 'Roboto', sans-serif;
+}
+.row {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 10px;
+    margin: 5px auto auto auto;
+    width: 200px;
+    background-color: #43a047;
+}
+
+.btn-alterar {
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 3px;
+    margin-left: 45px;
+    width: 90px;
+    padding: 9px;
+    text-align: center;
+    font-size: 16px;
+    background-color: aliceblue;
+    color: #43a047;
+    border: none;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    color: #43a047;
+}
+
+h2 {
+    margin: auto;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    margin: auto;
+    font-size: 16px;
+}
+
+input {
+    text-align: center;
+    margin-left: 13px;
+}

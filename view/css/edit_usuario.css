@@ -1,0 +1,74 @@
+body{
+    background-color: #eeeeee;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+}
+.row{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+.row-user{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    align-items: center;
+}
+h1 {
+    margin: auto;
+    text-align: center;
+    color: #43a047;
+}
+.comum{
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+}
+.card {
+    background-color: #43a047;
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 10px 30px 30px 30px;
+    margin: 140px auto 0 auto;
+    height: 220px;
+    width: 400px;
+}
+.card-user {
+    background-color: #43a047;
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 10px 30px 30px 30px;
+    margin: 5px auto 0 auto;
+    height: 120px;
+    width: 400px;
+}
+.btn-cadastrar{
+    font-family: 'Roboto', sans-serif;
+    display: inline;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius:3px;
+    margin: 10px auto 10px 150px;
+    width: 120px;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    background-color: aliceblue;
+    color: #43a047;
+    border: none;
+}
+label{
+    display: block;
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+}
+input{
+    width: 200px;
+}

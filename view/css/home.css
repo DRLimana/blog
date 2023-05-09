@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #eeeeee;
+}
+
+.home-page {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.inicio {
+    background-color: #43a047;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    margin: auto;
+    font-size: 26px;
+}
+
+.btn-ver {
+    display: inline;
+    text-decoration: none;
+    border-radius: 3px;
+    width: 90px;
+    padding: 9px;
+    text-align: center;
+    font-size: 16px;
+    background-color: aliceblue;
+    color: #43a047;
+    border: none;
+}
+
+input {
+    cursor: pointer;
+}
+
+.btn-like {
+    color: #43a047;
+}
+
+.hs {
+    color: aliceblue;
+}
+
+.row {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+.card {
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 10px auto auto auto;
+    width: 500px;
+    transition: all 0.3s ease-out;
+    background-color: #43a047;
+    color: aliceblue;
+}
+
+input{
+    width: 200px;
+}
+
+.paginacao{
+    
+    text-align: center;
+    height: 50px;
+    margin: 10px;
+    font-size: 26px;
+}
+
+.links-paginacao{
+    display: inline;
+    color: aliceblue;
+    border-radius: 5px;
+    width: 20px;
+    background-color: #43a047;   
+}

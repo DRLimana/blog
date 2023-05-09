@@ -1,0 +1,45 @@
+body {
+    background-color: #eeeeee;
+    font-family: 'Roboto', sans-serif;
+}
+
+.links {
+    text-decoration: none;
+    ;
+    color: aliceblue;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    display: inline;
+    border-radius: 3px;
+    margin-left: 55px;
+    padding: 9px;
+    text-align: center;
+    font-size: 16px;
+    background-color: aliceblue;
+    color: #43a047;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.row {
+    display: block;
+    margin-top: 10px;
+}
+
+.card {
+    background-color: #43a047;
+    justify-content: center;
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: auto;
+    width: 420px;
+}
+
+input{
+    width: 200px;
+}

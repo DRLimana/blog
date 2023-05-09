@@ -1,0 +1,65 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color:aliceblue;
+    background-color: #eeeeee;
+}
+input{
+    width: 200px;
+}
+.row {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    background-color: #43a047;
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 160px auto 0 auto;
+    height: 160px;
+    width: 400px;
+    transition: all 0.3s ease-out;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.formulario{
+    align-items: center;
+}
+
+.btn-cadastrar{
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    text-decoration: none;
+    border-radius:3px;
+    margin: 10px auto 10px auto;
+    width: 120px;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    background-color: aliceblue;
+    color: #43a047;
+    border: none;
+}
+.btn-voltar{
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    text-decoration: none;
+    border-radius:3px;
+    margin: auto;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    font-size: 16px;
+    color: #43a047;
+    background-color: aliceblue;
+}
+
+label{
+    display: block;
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+}

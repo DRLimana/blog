@@ -1,0 +1,38 @@
+body {
+    background-color: #eeeeee;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #43a047;
+    text-align: center;
+}
+
+.no-coment {
+    color: #43a047;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+.card {
+    background-color: #43a047;
+    justify-content: center;
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 5px auto auto auto;
+    width: 400px;
+    color: aliceblue;
+}
+
+.row {
+    display: inline;
+    margin-top: 10px;
+}
+
+input{
+    width: 200px;
+}
