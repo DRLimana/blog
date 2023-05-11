@@ -18,3 +18,10 @@ Projeto final de uma mentoria o qual participei, cujo objetivo é desenvolver so
 - `Total de Likes:` Ao final de toda ação de dar like ou deslike, o sistema irá fazer um COUNT() de quantos usuários deram like na publicação o qual se encontra e que atendem a condição de true.
 - `Sistema de comentários nas publicações:` o usuário pode optar por comentar em todas as publicações existentes do sistema, basta entrar em uma publicação e comentar. Ao final de todo comentário inserido o mesmo fica anexado e visível para todo os usuários do sistema juntamente a publicação a qual pertence.
 - `Estrura do banco de dados:` toda a base de dados para funcionamento do blog, para alimentação das tabelas, consultas e edições no sistema de gerenciamento de banco de dados MySQL;
+
+# 🛠️ Instruções necessárias para abrir e executar o projeto:
+- `Local onde o projeto deve ser alocado:` dentro do diretório htdcos (xampp/htdocs);
+- `Para importar a base de dados:` dentro do diretório do proejto (src/Banco_de_dados), existe o arquivo com o backup do banco de dados, para importação;
+
+## 🔍 Funcionamento do sistema: 
+Para inicializar o servidor local e o banco de dados mysql, no painel de controle do XAMPP, é necessário apertar o botão de 'start' nas opções *Apache e MYSQL*. Após realizar estes procedimentos, o próximo passo é digitar na barra de pesquisa de um navegador os seguintes valores: 'localhost/blog/view/Login.php', para que dessa maneira o sistema seja visível e apto a interações.
