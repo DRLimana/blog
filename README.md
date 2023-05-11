@@ -9,6 +9,6 @@ Projeto final de uma mentoria o qual participei, cujo objetivo é desenvolver um
 
 # 🔨 Funcionalidades do projeto:
 - `Cadastro de Usuários:` captura e inserção de cada informação de um usuário;
-- ``
-- ``
-- ``
+- `Login de acesso:` checagem das credenciais do usuário (email e senha) com a base de dados para acesso ao sistema;
+- `Permissionamento de usuários:` para cada usuário cadastrado no sistema via formulário, o mesmo já define como padrão "bloger". Podendo ser feito a alteração das permissões, quando logado com usuário "administrador";
+- `Cadastro e listagem de publicações:` captura e inserção de cada informação que compõe a publicação, bem como a listagem das mesmas;
