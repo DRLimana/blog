@@ -1,5 +1,10 @@
 # Desafio final blog - Mentoria
 
+# Imagen Ilustrada do Programa
+<div>
+  <img src= "https://user-images.githubusercontent.com/38536641/239108394-5f1d6aed-1f5a-49b1-89fe-77bb790b8c3b.PNG">
+  </div>
+
 # Descrição:
 Projeto final de uma mentoria o qual participei, cujo objetivo é desenvolver sozinho um Blog ambientado na web, desenvolvido com a linguagem de programação PHP, linguagem de marcação HTML e linguagem de estilização CSS. O sistema possibilita a interação com as publicações de um blog, com informações de usuários em um servidor local.
 
